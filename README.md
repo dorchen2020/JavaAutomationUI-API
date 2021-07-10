@@ -31,7 +31,7 @@ Run testng.xml to execute all tests (UI + API).
 │-------├── ContactUs.java  
 │-------├── HomePage.java  
 │---├── resources  
-│-------├── createJSOMServer.bat  
+│-------├── createJSONServer.bat  
 │-------├── db.json  
 │-------├── dbRecover.json  
 │---├── tests  
@@ -44,7 +44,6 @@ Run testng.xml to execute all tests (UI + API).
 │-------├── PrepareUITests.java  
 │-------├── ReadPropertyFile.java  
 │-------├── UIActions.java  
-│-------├── .java  
 ├── config.properties  
 ├── log4j.properties  
 ├── logs.txt  
