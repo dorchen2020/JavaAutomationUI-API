@@ -13,7 +13,7 @@ No need to update browsers drivers - it happens automatically by WebDriverManage
 ## Installation
 
 - Download the project to your local computer.
-- Run JSON Server with "createJSONServer.bat" in src/resource (If Server does not run APITests failed in execution).
+- Run JSON Server with "createJSONServer.bat" in src/resource (If Server does not run API Tests failed in execution).
 - Make sure Chrome and Edge are installed for a run on different browsers. 
 
 ## Usage
