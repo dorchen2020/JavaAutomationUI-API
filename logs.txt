@@ -1,0 +1,165 @@
+21/07/04 02:48:36 INFO  utills.Base - Success loading logs configuration from properties file
+21/07/04 02:48:36 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:36 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/04 02:48:42 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:48:42 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:42 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/04 02:48:46 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:48:46 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:46 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/04 02:48:50 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:48:50 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:50 INFO  utills.Base - |* Test Name: restoreBaseUsers *|
+21/07/04 02:48:54 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:48:54 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:54 INFO  utills.Base - |* Test Name: PostUsers *|
+21/07/04 02:48:58 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:48:58 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:48:58 INFO  utills.Base - |* Test Name: PostUsers *|
+21/07/04 02:49:02 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:02 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:02 INFO  utills.Base - |* Test Name: PatchUsers *|
+21/07/04 02:49:06 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:06 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:06 INFO  utills.Base - |* Test Name: PutUsers *|
+21/07/04 02:49:10 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:10 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:10 INFO  utills.Base - |* Test Name: PutUsers *|
+21/07/04 02:49:14 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:14 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:14 INFO  utills.Base - |* Test Name: DeleteUsers *|
+21/07/04 02:49:18 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:18 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:18 INFO  utills.Base - |* Test Name: DeleteUsers *|
+21/07/04 02:49:22 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:22 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:22 INFO  utills.Base - |* Test Name: isKeyValExistInNode *|
+21/07/04 02:49:27 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:27 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/04 02:49:27 INFO  utills.Base - |* Test Name: isKeyValExistInNode *|
+21/07/04 02:49:31 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/04 02:49:31 INFO  utills.Base - Success loading logs configuration from properties file
+21/07/04 02:49:39 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:49:39 INFO  utills.Base - |* Test Name: headerMenuCheck *|
+21/07/04 02:49:39 INFO  pages.HomePage - Check if header menu links displayed.
+21/07/04 02:49:40 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:49:45 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:49:45 INFO  utills.Base - |* Test Name: is21Links *|
+21/07/04 02:49:45 INFO  pages.HomePage - check if there is 21 links while hover on "Premier League".
+21/07/04 02:49:46 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:49:50 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:49:50 INFO  utills.Base - |* Test Name: isSpanish *|
+21/07/04 02:49:50 INFO  pages.HomePage - Change language to Spanish
+21/07/04 02:49:53 INFO  pages.HomePage - verify language changed to Spanish
+21/07/04 02:49:53 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:49:58 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:49:58 INFO  utills.Base - |* Test Name: isSuitableLinksToIcons *|
+21/07/04 02:49:58 INFO  pages.HomePage - Validate each link in footer URL`s has a suitable icon
+21/07/04 02:49:58 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:50:03 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:50:03 INFO  utills.Base - |* Test Name: isPremierBecomesRed *|
+21/07/04 02:50:03 INFO  pages.HomePage - Verify "Premier League" Becomes Red while hover.
+21/07/04 02:50:03 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:50:08 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:50:08 INFO  utills.Base - |* Test Name: isNavigateToArsenal *|
+21/07/04 02:50:08 INFO  pages.Arsenal - Navigate to Arsenal
+21/07/04 02:50:12 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:50:16 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:50:16 INFO  utills.Base - |* Test Name: eachPostsHaveCover *|
+21/07/04 02:50:16 INFO  pages.Arsenal - Navigate to Arsenal
+21/07/04 02:50:19 INFO  pages.Arsenal - assert all posts below "More Arsenal News" have a valid cover image.
+21/07/04 02:50:26 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:50:31 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:50:31 INFO  utills.Base - |* Test Name: isNavigateToContactUs *|
+21/07/04 02:50:31 INFO  pages.HomePage - navigate to Contact Us page
+21/07/04 02:50:37 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/04 02:50:42 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/04 02:50:42 INFO  utills.Base - |* Test Name: contactUsInsertDetails *|
+21/07/04 02:50:42 INFO  pages.HomePage - navigate to Contact Us page
+21/07/04 02:50:47 INFO  pages.ContactUs - Insert data to submit
+21/07/04 02:50:50 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+21/07/10 12:41:25 INFO  utills.Base - Success loading logs configuration from properties file
+21/07/10 12:41:25 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:25 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:27 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:27 INFO  utills.Base - |* Test Name: GetUsers *|
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:27 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:27 INFO  utills.Base - |* Test Name: restoreBaseUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: PostUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: PostUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: PatchUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: PutUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: PutUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: DeleteUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: DeleteUsers *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: isKeyValExistInNode *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************* Test Starts *************************
+21/07/10 12:41:28 INFO  utills.Base - |* Test Name: isKeyValExistInNode *|
+21/07/10 12:41:28 INFO  utills.PrepareAPITests - ************************** Test Ends **************************
+
+21/07/10 12:41:55 INFO  utills.Base - Success loading logs configuration from properties file
+21/07/10 12:42:03 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/10 12:42:03 INFO  utills.Base - |* Test Name: headerMenuCheck *|
+21/07/10 12:42:03 INFO  pages.HomePage - Check if header menu links displayed.
+21/07/10 12:42:04 INFO  utills.PrepareUITests - ************************** Test Ends **************************
+
+21/07/10 12:51:54 INFO  utills.Base - Success loading logs configuration from properties file
+21/07/10 12:52:01 INFO  utills.PrepareUITests - ************************* Test Starts *************************
+21/07/10 12:52:01 INFO  utills.Base - |* Test Name: headerMenuCheck *|
+21/07/10 12:52:01 INFO  pages.HomePage - Check if header menu links displayed.
+21/07/10 12:52:02 INFO  utills.PrepareUITests - ************************** Test Ends **************************
